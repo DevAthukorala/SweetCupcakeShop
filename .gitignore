@@ -1,0 +1,10 @@
+# Generated Java and NetBeans build output
+/build/
+/dist/
+*.class
+
+# Machine-specific NetBeans settings
+/nbproject/private/
+
+# Local user accounts and passwords (created automatically by the app)
+/data/users.csv
